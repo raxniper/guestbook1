@@ -50,6 +50,6 @@ select 	no,
         content,
         reg_date
 from guestbook
-order by no desc;
+order by no asc;
 
 
